@@ -1,0 +1,1 @@
+str[i].charCodeAt(0) - 97 - k
